@@ -12,7 +12,7 @@
 		<label for="user_pass">비밀번호 확인</label>
 		<input type="password" name="user_pass">
 		<button type="submit">회원탈퇴</button>
-	</form> 
+	</form>
 
 </body>
 </html>
